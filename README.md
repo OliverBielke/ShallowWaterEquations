@@ -1,8 +1,11 @@
 # ShallowWaterEquations
 Simulating the Shallow Water Equations with an SBP-SAT scheme
 
-![Gaussian pulse](/images/gaussian%20pulse,%20m=801.png)
+![Gaussian pulse](/Images/gaussian_pulse.png)
+Figure 1: Gaussian water pulse spreading out over time (time at y axis)
 
-![Gaussian pulse](images/gaussian%20lake,%20t=3.5,%20m=400.png)
+![Gaussian pulse](Images/Gaussian_slope/gaussian_slope.png)
+Figure 2: Gaussian pulse that has travelled over a slope. Notice that it travels faster at larger depths. 
 
-![Gaussian pulse](images/dam%20break,%202.png)
+![Gaussian pulse](Images/Dam_break/dam_break.png)
+Figure 3: Simulation of a dam break after 0.1s
